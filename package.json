@@ -1,0 +1,13 @@
+{
+  "name": "neural-network-balancer",
+  "version": "1.0.0",
+  "description": "my first neural network",
+  "main": "src/index.js",
+  "browser": "src/index.js",
+  "repository": "git@github.com:keithgabryelski/neural-network-balancer.git",
+  "author": "Keith Gabryelski <keith@gabryelski.com>",
+  "license": "MIT",
+  "dependencies": {
+    "matter-js": "^0.18.0"
+  }
+}
